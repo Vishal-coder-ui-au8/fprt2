@@ -5,3 +5,5 @@
 for admin login 
 Username:- admin@gmail.com
 Password:- 123456
+
+Dont delete admin account in admin->users so the admin account will be deleted
